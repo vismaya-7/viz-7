@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @viz-7
-- 👀 I’m interested in cyber security...
-- 🌱 I’m currently pursuing a diploma in cyber security...
-- 📫 reach me on linkedin linkedin.com/in/vismaya-v-68a677210
+- Hi, I'm Vismaya
+  a cybersecurity enthusiast dedicated to safeguarding the digital world, currently navigating the complexities of threat intelligence.
+- 📫 reach me on linkedin https://www.linkedin.com/in/vismayaav/
 
 <!---
 viz-7/viz-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
